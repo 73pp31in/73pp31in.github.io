@@ -1,16 +1,16 @@
 # Site settings
-title: "Prakhar Hans A.K.A 73pp31in"
+title: "73pp31in"
 email: prakharhans@protonmail.com
 description: "A blog for all my projects as posted on github.com/73pp3in"
 baseurl: ""
 url: "https://github.com/73pp31in"
 title_description: "Just another computer guy passionate about Infosec. This blog is created to give my contrbution to the field. I have learned so much from the people in this community, this is just me trying to give back a tiny little bit back to the community."
-# title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 # google_analytics: "UA-20365477-4"
 # disqus_account: cartenoire
 github_repository: https://github.com/73pp31in
 # addthis_id: ra-513c6fa83da6ec67
-# post_limit: 5
+post_limit: 5
 
 # Social usernames/URLs
 twitter_username: 73pp31in
